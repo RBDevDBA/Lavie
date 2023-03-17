@@ -30,4 +30,4 @@ Node.JS, Express, Sequelize & MYSQL criando a solução necessária ao atendimen
 
 - [Roberto Braga](https://www.github.com/rbdevdba)
 - [Matheus Santos Maurílio](https://www.github.com/matheusmaurilio)
-- [Paulo Henrique dos Santos Rocha](https://www.github.com/)
+- [Paulo Henrique dos Santos Rocha](https://www.github.com/paulorocha11)
