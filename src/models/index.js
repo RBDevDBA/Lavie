@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const Atendimentos = require("./Atendimentos");
 const Pacientes = require("./Pacientes");
 const Psicologos = require("./Psicologos");
@@ -22,3 +23,17 @@ module.exports = {
   Pacientes,
   Atendimentos
 }
+=======
+const pacientes = require("./pacientes");
+
+const psicologos =require("./psicologos");
+
+const atendimentos =require("./atendimentos")
+
+
+module.exports = {
+    pacientes,
+    psicologos,
+    atendimentos
+};
+>>>>>>> origin/main
